@@ -1,0 +1,41 @@
+
+/*17: 20 in 10 Your Website's CSS*/
+
+body{
+	margin: 0;
+	font-size: 20px;
+}
+
+header{
+	background-color: green;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
+
+header img{
+	border-radius: 130px;
+	width: 170px;
+	border: 10px solid grey;
+}
+
+h1, h2{
+	font-family: 'Permanent Marker', cursive;
+}
+
+header h1{
+	font-family: 'Permanent Marker', cursive;
+	color: black;
+	font-size: 50px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+main{
+	max-width: 800px;
+	margin-left: 25px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
