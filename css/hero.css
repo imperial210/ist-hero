@@ -4,6 +4,7 @@
 body{
 	margin: 0;
 	font-size: 20px;
+	line-height: 25px;
 }
 
 header{
@@ -38,4 +39,25 @@ main{
 	margin-left: 25px;
 	margin: 0 auto;
 	padding: 0 20px;
+}
+
+a{
+	color: green;
+}
+
+a:hover{
+	color: red;
+}
+
+footer{
+	background-color: aquamarine;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 25px;
+}
+
+p.caption{
+	color: #999999;
+	text-align: right;
+	font-style: italic;
 }
