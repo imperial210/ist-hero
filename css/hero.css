@@ -1,6 +1,3 @@
-
-/*17: 20 in 10 Your Website's CSS*/
-
 body{
 	margin: 0;
 	font-size: 20px;
@@ -39,6 +36,7 @@ main{
 	margin-left: 25px;
 	margin: 0 auto;
 	padding: 0 20px;
+	background-color: #E3E8F6;
 }
 
 a{
@@ -50,14 +48,22 @@ a:hover{
 }
 
 footer{
-	background-color: aquamarine;
+	background-color: #63EA97;
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 25px;
 }
 
 p.caption{
-	color: #999999;
+	color: #434042;
 	text-align: right;
 	font-style: italic;
+}
+
+h2{
+	padding-top: 20px;
+}
+
+footer a{
+	color: #3F72E4;
 }
