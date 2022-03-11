@@ -5,7 +5,7 @@ body{
 }
 
 header{
-	background-color: green;
+	background-color: #1EAF00;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 15px;
@@ -36,7 +36,6 @@ main{
 	margin-left: 25px;
 	margin: 0 auto;
 	padding: 0 20px;
-	background-color: #E3E8F6;
 }
 
 a{
@@ -48,7 +47,7 @@ a:hover{
 }
 
 footer{
-	background-color: #63EA97;
+	background-color: #1EAF00;
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 25px;
@@ -65,5 +64,13 @@ h2{
 }
 
 footer a{
-	color: #3F72E4;
+	color: gold;
+}
+
+body{
+	background-color: #DFF4F4
+}
+
+a.text{
+	color: black;
 }
